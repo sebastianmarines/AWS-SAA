@@ -15,3 +15,5 @@ A fleet contains the configuration information to launch a group of instances in
 
 Elastic Fabric adapter doesn't work in Windows instances.
 
+## Guard Duty
+
